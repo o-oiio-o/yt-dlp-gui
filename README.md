@@ -34,7 +34,7 @@ For detailed instructions on using yt-dlp, please refer to the yt-dlp project.
 | **yt-dlp Program Position** | Select the path to your `yt-dlp_x86.exe` (or `yt-dlp.exe`) file. |
 | **ffmpeg Directory** | Select the folder containing `ffmpeg.exe` (usually the `bin` folder of your FFmpeg installation). |
 | **Download Directory** | The local folder where your downloaded videos will be saved. |
-| **Cookies Setting** | Enable this if the video requires authentication (e.g., age-restricted or member-only content). Select your exported `cookies.txt` file.Export the cookies with an extension such as **[this]([https://github.com/yt-dlp/yt-dlp](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc))** |
+| **Cookies Setting** | Enable this if the video requires authentication (e.g., age-restricted or member-only content). Select your exported `cookies.txt` file.Export the cookies with an extension such as **[this](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)** |
 | **Video URL List** | Paste your video links here. Supports batch input (one URL per line). |
 | **Operation Status** | A real-time console log showing download progress, file names, and speeds. |
 
