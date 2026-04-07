@@ -19,7 +19,7 @@ To run this script, ensure you have the following:
 
 1.  **Operating System**: Windows (Optimized for Windows file paths and encoding).
 2.  **Python**: Version 3.1 or higher.
-3.  **Required Binaries**:
+3.  **Required Supporting Files**:
     *   **yt-dlp.exe**: The core downloader engine.
     *   **FFmpeg**: Required for merging high-quality video and audio streams.
     *   **deno.exe**: (Optional) Required if the specific site requires JS-runtime for decryption.
