@@ -23,8 +23,9 @@ To run this script, ensure you have the following:
     *   **yt-dlp.exe**: The core downloader engine.
     *   **FFmpeg**: Required for merging high-quality video and audio streams.
     *   **deno.exe**: (Optional) Required if the specific site requires JS-runtime for decryption.
-For detailed instructions on using yt-dlp, please refer to the yt-dlp project.
-**[yt-dlp GitHub Repository](https://github.com/yt-dlp/yt-dlp)**
+---
+Remark：For detailed instructions on using yt-dlp, please refer to the yt-dlp project.**[yt-dlp GitHub Repository](https://github.com/yt-dlp/yt-dlp)**
+
 ---
 
 ## 🛠 Field Descriptions
